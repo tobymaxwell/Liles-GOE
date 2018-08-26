@@ -7,7 +7,7 @@ library(plyr)
 G1 <- read.csv('FF_C_treerings.csv', header=TRUE)
 G2 <- read.csv('FF_F_treerings.csv', header=TRUE)
 G3 <- read.csv('FF_H_treerings.csv', header=TRUE)
-G4 <- read.csv('FF_HF_treerings.csv', header=TRUE)
+G4 <- read.csv('G', header=TRUE)
 
 ## Elkhorn
 G1 <- read.csv('E_C_treerings.csv', header=TRUE)
