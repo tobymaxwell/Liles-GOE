@@ -1,6 +1,9 @@
+library(plyr)
+setwd("/Users/Maxwell/OneDrive - University Of Oregon/Oregon/Papers/Garrett JGR/")
 goeiso<-read.csv("/Users/Maxwell/OneDrive - University Of Oregon/Oregon/Papers/Garrett JGR/GOE_isotopes.csv")
 goeppt<-read.csv("/Users/Maxwell/OneDrive - University Of Oregon/Oregon/Papers/Garrett JGR/GOE_annual_PT.csv")
 str(goeiso)
+str(goeppt)
 
 m1<-lm(d13C~treatment*site, goeiso)
 anova(m1)
@@ -16,7 +19,7 @@ goe2<-ddply(goeiso[goeiso$treatment=="control",], .(site, year), summarise,
 goe2$sy<-paste0(goe2$site,goe2$year)
 goeiso<-merge(goeiso, goe2)
 goeiso2<-merge(goeiso, goeppt[2:8])
-library(plyr)
+
 goe3<-ddply(goeiso2, .(site, treatment, year), summarise, 
             d18Onormse = sd(d18O/meanctrl)/length(d18O/meanctrl),
             d18Onorm = mean(d18O/meanctrl),
@@ -64,6 +67,18 @@ ggplot(goe4[goe4$treatment!="control",], aes(y=(d18Onorm), x=year))+
   geom_line(data=goe4[goe4$treatment!="control",], lty="dotdash")+geom_errorbar(data=goe4[goe4$treatment!="control",], width = 0.2, aes(ymin=d18Onorm-d18Onormse, ymax=d18Onorm+d18Onormse))+
   geom_line(data=goe4[goe4$treatment!="control",], lty = "solid",aes(y=iWUEnorm, x=year))+geom_errorbar(data=goe4[goe4$treatment!="control",], width = 0.2, aes(ymin=iWUEnorm-iWUEnormse, ymax=iWUEnorm+iWUEnormse))+
   theme_bw()+ylab("d18O (dotted), iWUE (solid) normalized to control")+facet_grid(treatment~site) +theme(strip.background = element_rect(fill = "White"))
+
+####Mixed Effects####
+library(lme4)
+goe.mem<-merge(goeiso, goeppt)
+goeall<-read.csv("GOE_tree_all_data.csv")
+str(goeall)
+
+mem1<-lmer(d18O~iWUE+avg_t+annual_mm+(1|year)+)
+
+
+
+
 
 elkHFts<-goe4[goe4$site=="Elkhorn"&goe4$treatment=="HF",]
 elkHFts<-elkHFts[-1]
