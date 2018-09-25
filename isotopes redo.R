@@ -90,19 +90,32 @@ clim.wide
 goe.mem<-merge(goeiso, clim.wide)
 str(goe.mem)
 
-mem1<-lmer(scale(d18O)~scale(iWUE)+scale(meanBA)+scale(avg_t.2)+scale(avg_t.4)+scale(rain_WY_mm.4)+treatment+(1|year)+(rain_WY_mm.4|site)+(1|tree), goe.mem)
+mem1<-lmer(scale(d18O)~scale(iWUE)+scale(meanBA)+scale(avg_t.2)+scale(avg_t.4)+scale(WY_Q_pct.4)+treatment+(1|year)+(1|site)+(1|tree), goe.mem)
 summary(mem1)
 library(sjPlot)
 sjt.lmer(mem1)
-
+plot(residuals(mem1)~predict(mem1))
 sjp.lmer(mem1, y.offset = .4, type="rs.ri")
 
-elkHFts<-goe4[goe4$site=="Elkhorn"&goe4$treatment=="HF",]
-elkHFts<-elkHFts[-1]
-elkHFts<-elkHFts[-2:-4]
-elkHFts<-elkHFts[-3:-7]
-elkHFts<-elkHFts[1:3]
+goets<-subset(goe4, select =c("year", "site", "treatment","d18O", "iWUE"))
+treats<-c("control", "fertilizer", "HF", "herbicide")
+sites<-c("Whitmore", "Elkhorn", "Feather Falls")
+rep(control,3)
+lag<-NULL
+data<-NULL
+for(i in sites){
+  for(j in treats){
+    lag<-ts(goets[goets$site==i&goets$treatment==j,][-2:-3])
+    lag<-acf(lag, type = "cor")
+    data<-c(data, max(abs(lag$acf[,3,2])))
+  }
+  
+}
+
+acfs<-data.frame(data)
+acfs$site<-
 elkHFts<-ts(elkHFts)
 acfelkHF<-acf(elkHFts, type = "cor")
-summary(acfelkHF)
+str(acfelkHF)
+acfelkHF$acf[2,3,2]
 plot(elkHFts$d18O~elkHFts$iWUE)
