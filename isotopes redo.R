@@ -90,7 +90,7 @@ clim.wide
 goe.mem<-merge(goeiso, clim.wide)
 str(goe.mem)
 
-mem1<-lmer(scale(d18O)~scale(iWUE)+scale(meanBA)+scale(avg_t.2)+scale(avg_t.4)+scale(WY_Q_pct.4)+treatment+(1|year)+(1|site)+(1|tree), goe.mem)
+mem1<-lmer(scale(d18O)~scale(iWUE)+scale(meanBA)+scale(avg_t.2)+scale(max_t.4)+scale(WY_Q_pct.4)+treatment+(1|year)+(1|site)+(1|tree), goe.mem)
 summary(mem1)
 library(sjPlot)
 sjt.lmer(mem1)
