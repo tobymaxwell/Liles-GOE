@@ -1,0 +1,717 @@
+Site,Treatment,Year,Plot,Tree,diameter_breast_height_cm,height_cm
+Elkhorn,control,1988,5,1,2.1,55.9
+Elkhorn,control,1990,5,1,3.1,71.1
+Elkhorn,control,1992,5,1,5.1,99.1
+Elkhorn,control,1994,5,1,7.1,142.2
+Elkhorn,control,1996,5,1,9.9,195.6
+Elkhorn,control,2001,5,1,8.6,497.8
+Elkhorn,control,2006,5,1,8.6,510.5
+Elkhorn,control,1988,5,9,2.9,66
+Elkhorn,control,1990,5,9,5.4,124.5
+Elkhorn,control,1992,5,9,8.9,175.3
+Elkhorn,control,1994,5,9,12.2,243.8
+Elkhorn,control,1996,5,9,3.8,370.8
+Elkhorn,control,2001,5,9,14.2,678.2
+Elkhorn,control,2006,5,9,21.6,955
+Elkhorn,control,1988,5,17,1.7,53.3
+Elkhorn,control,1990,5,17,4.2,134.6
+Elkhorn,control,1992,5,17,9.4,231.1
+Elkhorn,control,1994,5,17,5.1,396.2
+Elkhorn,control,1996,5,17,11.7,586.7
+Elkhorn,control,2001,5,17,20.1,1061.7
+Elkhorn,control,2006,5,17,25.7,1544.3
+Elkhorn,control,1988,8,1,2.5,73.7
+Elkhorn,control,1990,8,1,3.6,116.8
+Elkhorn,control,1992,8,1,7.9,210.8
+Elkhorn,control,1994,8,1,3,342.9
+Elkhorn,control,1996,8,1,5.8,497.8
+Elkhorn,control,2001,8,1,16.3,812.8
+Elkhorn,control,2006,8,1,24.4,1259.8
+Elkhorn,control,1988,8,3,2.1,66
+Elkhorn,control,1990,8,3,4,134.6
+Elkhorn,control,1992,8,3,9.9,259.1
+Elkhorn,control,1994,8,3,4.8,436.9
+Elkhorn,control,1996,8,3,9.9,602
+Elkhorn,control,2001,8,3,22.1,998.2
+Elkhorn,control,2006,8,3,30.5,1473.2
+Elkhorn,control,1988,8,17,2.6,63.5
+Elkhorn,control,1990,8,17,3.3,111.8
+Elkhorn,control,1992,8,17,6.9,215.9
+Elkhorn,control,1994,8,17,9.1,302.3
+Elkhorn,control,1996,8,17,2.8,386.1
+Elkhorn,control,2001,8,17,8.4,581.7
+Elkhorn,control,2006,8,17,13.2,784.9
+Elkhorn,control,1988,24,11,3.5,58.4
+Elkhorn,control,1990,24,11,4.8,137.2
+Elkhorn,control,1992,24,11,11.2,281.9
+Elkhorn,control,1994,24,11,7.1,477.5
+Elkhorn,control,1996,24,11,16,716.3
+Elkhorn,control,2001,24,11,34.3,1270
+Elkhorn,control,2006,24,11,45.7,1899.9
+Elkhorn,control,1988,24,16,2.1,50.8
+Elkhorn,control,1990,24,16,2.6,78.7
+Elkhorn,control,1992,24,16,7.7,200.7
+Elkhorn,control,1994,24,16,5.3,401.3
+Elkhorn,control,1996,24,16,10.4,612.1
+Elkhorn,control,2001,24,16,24.9,1231.9
+Elkhorn,control,2006,24,16,35.6,1892.3
+Elkhorn,control,1988,24,18,1.3,38.1
+Elkhorn,control,1990,24,18,1.5,55.9
+Elkhorn,control,1992,24,18,2.6,96.5
+Elkhorn,control,1994,24,18,4.6,149.9
+Elkhorn,control,1996,24,18,6.6,228.6
+Elkhorn,control,2001,24,18,5.6,523.2
+Elkhorn,control,2006,24,18,14,850.9
+Feather Falls,control,1988,5,7,3.3,96.5
+Feather Falls,control,1990,5,7,8.8,309.9
+Feather Falls,control,1992,5,7,19.1,576.6
+Feather Falls,control,1994,5,7,20.3,988.1
+Feather Falls,control,1996,5,7,26.7,1447.8
+Feather Falls,control,2001,5,7,33.8,2314.9
+Feather Falls,control,2006,5,7,34,2943.9
+Feather Falls,control,1988,5,12,3.9,99.1
+Feather Falls,control,1990,5,12,9.9,315
+Feather Falls,control,1992,5,12,21.1,718.8
+Feather Falls,control,1994,5,12,22.6,1259.8
+Feather Falls,control,1996,5,12,31.5,1833.9
+Feather Falls,control,2001,5,12,43.4,2612.6
+Feather Falls,control,2006,5,12,52.3,3858.3
+Feather Falls,control,1988,5,17,5.4,147.3
+Feather Falls,control,1990,5,17,14.7,434.3
+Feather Falls,control,1992,5,17,29.2,800.1
+Feather Falls,control,1994,5,17,30,1252.2
+Feather Falls,control,1996,5,17,39.4,1762.8
+Feather Falls,control,2001,5,17,54.1,2639.1
+Feather Falls,control,2006,5,17,58.4,3868.4
+Feather Falls,control,1988,8,4,6.5,142.2
+Feather Falls,control,1990,8,4,16.4,454.7
+Feather Falls,control,1992,8,4,30,886.5
+Feather Falls,control,1994,8,4,12.4,1412.2
+Feather Falls,control,1996,8,4,42.2,1656.1
+Feather Falls,control,2001,8,4,54.1,2549
+Feather Falls,control,2006,8,4,60.7,3647.4
+Feather Falls,control,1988,8,14,3.4,91.4
+Feather Falls,control,1990,8,14,10.1,264.2
+Feather Falls,control,1992,8,14,22.6,574
+Feather Falls,control,1994,8,14,17.8,934.7
+Feather Falls,control,1996,8,14,24.4,1168.4
+Feather Falls,control,2001,8,14,33.5,2788.9
+Feather Falls,control,2006,8,14,38.4,3236
+Feather Falls,control,1988,8,20,4.7,99.1
+Feather Falls,control,1990,8,20,13.1,368.3
+Feather Falls,control,1992,8,20,23.1,670.6
+Feather Falls,control,1994,8,20,22.1,1038.9
+Feather Falls,control,1996,8,20,29.5,1264.9
+Feather Falls,control,2001,8,20,42.4,2608.6
+Feather Falls,control,2006,8,20,50,3157.2
+Feather Falls,control,1988,24,10,5.9,142.2
+Feather Falls,control,1990,24,10,15,391.2
+Feather Falls,control,1992,24,10,26.9,817.9
+Feather Falls,control,1994,24,10,29,1323.3
+Feather Falls,control,1996,24,10,38.6,1877.1
+Feather Falls,control,2001,24,10,53.8,3098.8
+Feather Falls,control,2006,24,10,63.5,4107.2
+Feather Falls,control,1988,24,11,4.2,114.3
+Feather Falls,control,1990,24,11,9.7,350.5
+Feather Falls,control,1992,24,11,19.3,716.3
+Feather Falls,control,1994,24,11,21.3,1130.3
+Feather Falls,control,1996,24,11,28.4,1638.3
+Feather Falls,control,2001,24,11,37.8,2505.7
+Feather Falls,control,2006,24,11,43.7,3492.5
+Feather Falls,control,1988,24,17,4.2,116.8
+Feather Falls,control,1990,24,17,7.9,294.6
+Feather Falls,control,1992,24,17,14,571.5
+Feather Falls,control,1994,24,17,14.7,800.1
+Feather Falls,control,1996,24,17,19.1,1089.7
+Feather Falls,control,2001,24,17,23.4,1680.6
+Feather Falls,control,2006,24,17,24.1,2072.6
+Whitmore,control,1991,5,3,9.1,188
+Whitmore,control,1992,5,3,12.7,266.7
+Whitmore,control,1995,5,3,10.2,609.6
+Whitmore,control,1996,5,3,13.5,683.3
+Whitmore,control,2001,5,3,23.4,1056.6
+Whitmore,control,2007,5,3,31.8,1681.5
+Whitmore,control,1991,5,6,11.8,350.5
+Whitmore,control,1992,5,6,17.1,477.5
+Whitmore,control,1995,5,6,18.5,891.5
+Whitmore,control,1996,5,6,22.1,1023.6
+Whitmore,control,2001,5,6,34.3,1582.4
+Whitmore,control,2007,5,6,42.4,2354.6
+Whitmore,control,1991,5,7,5.2,139.7
+Whitmore,control,1992,5,7,7.1,198.1
+Whitmore,control,1995,5,7,5.3,469.9
+Whitmore,control,1996,5,7,8.6,546.1
+Whitmore,control,2001,5,7,14.5,830.6
+Whitmore,control,2007,5,7,17,1348.7
+Whitmore,control,1991,8,5,13.7,312.4
+Whitmore,control,1992,8,5,16.4,436.9
+Whitmore,control,1995,8,5,14.7,774.7
+Whitmore,control,1996,8,5,17.8,868.7
+Whitmore,control,2001,8,5,27.4,1430
+Whitmore,control,2007,8,5,36.3,2207.3
+Whitmore,control,1991,8,9,9.4,231.1
+Whitmore,control,1992,8,9,11.7,327.7
+Whitmore,control,1995,8,9,10.2,599.4
+Whitmore,control,1996,8,9,12.7,706.1
+Whitmore,control,2007,8,9,28.7,1877.1
+Whitmore,control,1991,8,12,8.4,243.8
+Whitmore,control,1992,8,12,11.5,292.1
+Whitmore,control,1995,8,12,10.9,576.6
+Whitmore,control,1996,8,12,13.5,660.4
+Whitmore,control,2001,8,12,23.6,1051.6
+Whitmore,control,2007,8,12,31.8,1666.2
+Whitmore,control,1991,24,16,5.8,170.2
+Whitmore,control,1992,24,16,7.8,226.1
+Whitmore,control,1995,24,16,7.6,477.5
+Whitmore,control,1996,24,16,9.7,553.7
+Whitmore,control,2001,24,16,20.1,993.1
+Whitmore,control,2007,24,16,26.9,1572.3
+Whitmore,control,1991,24,19,3.9,147.3
+Whitmore,control,1992,24,19,4.9,182.9
+Whitmore,control,1996,24,19,2.8,386.1
+Whitmore,control,2001,24,19,8.1,652.8
+Whitmore,control,2007,24,19,12.2,1013.5
+Whitmore,control,1991,24,20,8.4,231.1
+Whitmore,control,1992,24,20,11,312.4
+Whitmore,control,1995,24,20,12.4,657.9
+Whitmore,control,1996,24,20,14,739.1
+Whitmore,control,2001,24,20,24.4,1247.1
+Whitmore,control,2007,24,20,35.6,2095.5
+Elkhorn,fertilizer,1988,2,1,2.2,55.9
+Elkhorn,fertilizer,1990,2,1,4.5,142.2
+Elkhorn,fertilizer,1992,2,1,9.7,236.2
+Elkhorn,fertilizer,1994,2,1,4.1,403.9
+Elkhorn,fertilizer,1996,2,1,13.7,622.3
+Elkhorn,fertilizer,2001,2,1,32,1285.2
+Elkhorn,fertilizer,2006,2,1,41.4,1917.7
+Elkhorn,fertilizer,1988,2,9,2.9,50.8
+Elkhorn,fertilizer,1990,2,9,5.5,175.3
+Elkhorn,fertilizer,1992,2,9,11.9,289.6
+Elkhorn,fertilizer,1994,2,9,9.4,558.8
+Elkhorn,fertilizer,1996,2,9,21.1,861.1
+Elkhorn,fertilizer,2001,2,9,37.8,1440.2
+Elkhorn,fertilizer,2006,2,9,48.3,2095.5
+Elkhorn,fertilizer,1988,2,15,1.7,35.6
+Elkhorn,fertilizer,1990,2,15,2.5,35.6
+Elkhorn,fertilizer,1992,2,15,3.6,119.4
+Elkhorn,fertilizer,1994,2,15,7.1,226.1
+Elkhorn,fertilizer,1996,2,15,3,411.5
+Elkhorn,fertilizer,2001,2,15,10.9,645.2
+Elkhorn,fertilizer,2006,2,15,20.3,1041.4
+Elkhorn,fertilizer,1988,11,4,1.6,30.5
+Elkhorn,fertilizer,1990,11,4,4.7,81.3
+Elkhorn,fertilizer,1992,11,4,6.6,116.8
+Elkhorn,fertilizer,1994,11,4,7.4,167.6
+Elkhorn,fertilizer,1996,11,4,9.4,228.6
+Elkhorn,fertilizer,2001,11,4,6.1,515.6
+Elkhorn,fertilizer,2006,11,4,13.7,800.1
+Elkhorn,fertilizer,1988,11,9,2.3,50.8
+Elkhorn,fertilizer,1990,11,9,5.8,137.2
+Elkhorn,fertilizer,1992,11,9,16,284.5
+Elkhorn,fertilizer,1994,11,9,8.9,500.4
+Elkhorn,fertilizer,1996,11,9,21.3,797.6
+Elkhorn,fertilizer,2001,11,9,38.9,1397
+Elkhorn,fertilizer,2006,11,9,44.5,1930.4
+Elkhorn,fertilizer,1988,11,12,1.8,10.2
+Elkhorn,fertilizer,1990,11,12,1.3,38.1
+Elkhorn,fertilizer,1992,11,12,4.3,134.6
+Elkhorn,fertilizer,1994,11,12,11.4,304.8
+Elkhorn,fertilizer,1996,11,12,7.4,502.9
+Elkhorn,fertilizer,2001,11,12,23.1,998.2
+Elkhorn,fertilizer,2006,11,12,31.5,1722.1
+Elkhorn,fertilizer,1988,14,3,1.8,66
+Elkhorn,fertilizer,1990,14,3,3.2,129.5
+Elkhorn,fertilizer,1992,14,3,7.9,233.7
+Elkhorn,fertilizer,1994,14,3,4.6,386.1
+Elkhorn,fertilizer,1996,14,3,12.2,645.2
+Elkhorn,fertilizer,2001,14,3,31.5,1348.7
+Elkhorn,fertilizer,2006,14,3,40.4,2098
+Elkhorn,fertilizer,1988,14,5,1.8,38.1
+Elkhorn,fertilizer,1990,14,5,1.9,91.4
+Elkhorn,fertilizer,1992,14,5,5.1,162.6
+Elkhorn,fertilizer,1994,14,5,9.4,327.7
+Elkhorn,fertilizer,1996,14,5,7.4,563.9
+Elkhorn,fertilizer,2001,14,5,20.6,1206.5
+Elkhorn,fertilizer,2006,14,5,28.2,1988.8
+Elkhorn,fertilizer,1988,14,11,3.1,88.9
+Elkhorn,fertilizer,1990,14,11,5.3,119.4
+Elkhorn,fertilizer,1992,14,11,9.9,254
+Elkhorn,fertilizer,1994,14,11,7.9,454.7
+Elkhorn,fertilizer,1996,14,11,14.7,764.5
+Elkhorn,fertilizer,2001,14,11,36.1,1638.3
+Elkhorn,fertilizer,2006,14,11,51.3,2580.6
+Feather Falls,fertilizer,1988,2,3,7,198.1
+Feather Falls,fertilizer,1990,2,3,16.2,416.6
+Feather Falls,fertilizer,1992,2,3,32.5,721.4
+Feather Falls,fertilizer,1994,2,3,32.3,1209
+Feather Falls,fertilizer,1996,2,3,44.7,1800.9
+Feather Falls,fertilizer,2001,2,3,63.2,3784.7
+Feather Falls,fertilizer,2006,2,3,73.2,4216.4
+Feather Falls,fertilizer,1988,2,6,3.7,127
+Feather Falls,fertilizer,1990,2,6,9.4,330.2
+Feather Falls,fertilizer,1992,2,6,19.3,642.6
+Feather Falls,fertilizer,1994,2,6,23.9,1181.1
+Feather Falls,fertilizer,1996,2,6,35.1,1706.9
+Feather Falls,fertilizer,2001,2,6,49,2769.4
+Feather Falls,fertilizer,2006,2,6,56.9,4058.9
+Feather Falls,fertilizer,1988,2,18,2.8,91.4
+Feather Falls,fertilizer,1990,2,18,8.9,284.5
+Feather Falls,fertilizer,1992,2,18,19.6,563.9
+Feather Falls,fertilizer,1994,2,18,23.6,1018.5
+Feather Falls,fertilizer,1996,2,18,35.1,1508.8
+Feather Falls,fertilizer,2001,2,18,45.5,2656.6
+Feather Falls,fertilizer,2006,2,18,45.7,3253.7
+Feather Falls,fertilizer,1988,11,1,5.9,198.1
+Feather Falls,fertilizer,1990,11,1,14,388.6
+Feather Falls,fertilizer,1992,11,1,26.2,708.7
+Feather Falls,fertilizer,1994,11,1,30.7,1181.1
+Feather Falls,fertilizer,1996,11,1,40.6,1541.8
+Feather Falls,fertilizer,2001,11,1,54.6,3148.2
+Feather Falls,fertilizer,2006,11,1,61,3871
+Feather Falls,fertilizer,1988,11,4,3.2,81.3
+Feather Falls,fertilizer,1990,11,4,9.1,302.3
+Feather Falls,fertilizer,1992,11,4,17.8,563.9
+Feather Falls,fertilizer,1994,11,4,21.6,1021.1
+Feather Falls,fertilizer,1996,11,4,29.2,1612.9
+Feather Falls,fertilizer,2001,11,4,38.9,2674.6
+Feather Falls,fertilizer,2006,11,4,39.9,3637.3
+Feather Falls,fertilizer,1988,11,15,4.7,129.5
+Feather Falls,fertilizer,1990,11,15,12.2,342.9
+Feather Falls,fertilizer,1992,11,15,23.9,690.9
+Feather Falls,fertilizer,1994,11,15,26.9,1249.7
+Feather Falls,fertilizer,1996,11,15,39.6,1841.5
+Feather Falls,fertilizer,2001,11,15,61.5,3106.4
+Feather Falls,fertilizer,2006,11,15,72.4,4356.1
+Feather Falls,fertilizer,1988,14,4,7.5,177.8
+Feather Falls,fertilizer,1990,14,4,15.5,492.8
+Feather Falls,fertilizer,1992,14,4,27.4,866.1
+Feather Falls,fertilizer,1994,14,4,31.5,1005.8
+Feather Falls,fertilizer,1996,14,4,40.9,1872
+Feather Falls,fertilizer,2001,14,4,56.4,3298.3
+Feather Falls,fertilizer,2006,14,4,62.2,4279.9
+Feather Falls,fertilizer,1988,14,9,5.4,142.2
+Feather Falls,fertilizer,1990,14,9,12.2,426.7
+Feather Falls,fertilizer,1992,14,9,25.9,894.1
+Feather Falls,fertilizer,1994,14,9,32.8,1430
+Feather Falls,fertilizer,1996,14,9,44.2,2032
+Feather Falls,fertilizer,2001,14,9,64,3276.6
+Feather Falls,fertilizer,2006,14,9,73.7,4414.5
+Feather Falls,fertilizer,1988,14,18,5.1,109.2
+Feather Falls,fertilizer,1990,14,18,13,289.6
+Feather Falls,fertilizer,1992,14,18,22.1,640.1
+Feather Falls,fertilizer,1994,14,18,24.6,1092.2
+Feather Falls,fertilizer,1996,14,18,34.5,1394.5
+Feather Falls,fertilizer,2001,14,18,45.2,2616.2
+Feather Falls,fertilizer,2006,14,18,52.3,3515.4
+Whitmore,fertilizer,1991,2,4,6.1,165.1
+Whitmore,fertilizer,1992,2,4,7.6,210.8
+Whitmore,fertilizer,1995,2,4,6.9,525.8
+Whitmore,fertilizer,1996,2,4,10.2,622.3
+Whitmore,fertilizer,2001,2,4,20.6,1163.3
+Whitmore,fertilizer,2007,2,4,27.9,2016.8
+Whitmore,fertilizer,1991,2,12,9.4,289.6
+Whitmore,fertilizer,1992,2,12,12.9,393.7
+Whitmore,fertilizer,1995,2,12,15.5,749.3
+Whitmore,fertilizer,1996,2,12,19.8,886.5
+Whitmore,fertilizer,2001,2,12,35.1,1597.7
+Whitmore,fertilizer,2007,2,12,46.7,2674.6
+Whitmore,fertilizer,1991,2,14,5.2,157.5
+Whitmore,fertilizer,1992,2,14,7.3,238.8
+Whitmore,fertilizer,1995,2,14,7.4,518.2
+Whitmore,fertilizer,1996,2,14,10.4,617.2
+Whitmore,fertilizer,2001,2,14,32,1277.6
+Whitmore,fertilizer,2007,2,14,40.4,2255.5
+Whitmore,fertilizer,1991,11,3,12.7,307.3
+Whitmore,fertilizer,1992,11,3,16.8,403.9
+Whitmore,fertilizer,1995,11,3,19.8,787.4
+Whitmore,fertilizer,1996,11,3,24.6,952.5
+Whitmore,fertilizer,2001,11,3,39.6,1828.8
+Whitmore,fertilizer,2007,11,3,52.1,2707.6
+Whitmore,fertilizer,1991,11,9,5.1,182.9
+Whitmore,fertilizer,1992,11,9,6.3,259.1
+Whitmore,fertilizer,1995,11,9,5.8,513.1
+Whitmore,fertilizer,1996,11,9,8.6,591.8
+Whitmore,fertilizer,2007,11,9,21.6,1686.6
+Whitmore,fertilizer,1991,11,13,10.2,294.6
+Whitmore,fertilizer,1992,11,13,13.4,393.7
+Whitmore,fertilizer,1995,11,13,14.5,784.9
+Whitmore,fertilizer,1996,11,13,19.1,911.9
+Whitmore,fertilizer,2001,11,13,32,1630.7
+Whitmore,fertilizer,2007,11,13,38.9,2438.4
+Whitmore,fertilizer,1991,14,11,6.6,172.7
+Whitmore,fertilizer,1992,14,11,8.6,233.7
+Whitmore,fertilizer,1995,14,11,5.3,492.8
+Whitmore,fertilizer,1996,14,11,8.9,602
+Whitmore,fertilizer,2001,14,11,25.4,1231.9
+Whitmore,fertilizer,2007,14,11,31.2,2161.5
+Whitmore,fertilizer,1991,14,15,9.4,327.7
+Whitmore,fertilizer,1992,14,15,11.9,401.3
+Whitmore,fertilizer,1995,14,15,13,698.5
+Whitmore,fertilizer,1996,14,15,17.5,833.1
+Whitmore,fertilizer,2001,14,15,34,1686.6
+Whitmore,fertilizer,2007,14,15,43.7,2697.5
+Whitmore,fertilizer,1991,14,20,9.1,248.9
+Whitmore,fertilizer,1992,14,20,12.3,353.1
+Whitmore,fertilizer,1995,14,20,15.5,739.1
+Whitmore,fertilizer,1996,14,20,22.9,843.3
+Whitmore,fertilizer,2001,14,20,40.1,1643.4
+Whitmore,fertilizer,2007,14,20,54.4,2542.5
+Elkhorn,herbicide,1988,12,1,1.6,43.2
+Elkhorn,herbicide,1990,12,1,4.5,101.6
+Elkhorn,herbicide,1992,12,1,11.9,233.7
+Elkhorn,herbicide,1994,12,1,4.6,416.6
+Elkhorn,herbicide,1996,12,1,12.7,690.9
+Elkhorn,herbicide,2001,12,1,27.7,1176
+Elkhorn,herbicide,2006,12,1,34,1765.3
+Elkhorn,herbicide,1988,12,7,1.5,43.2
+Elkhorn,herbicide,1990,12,7,2.6,78.7
+Elkhorn,herbicide,1992,12,7,14.7,205.7
+Elkhorn,herbicide,1994,12,7,6.1,459.7
+Elkhorn,herbicide,1996,12,7,16,746.8
+Elkhorn,herbicide,2001,12,7,34.5,1270
+Elkhorn,herbicide,2006,12,7,44.2,1836.4
+Elkhorn,herbicide,1988,12,15,2.2,35.6
+Elkhorn,herbicide,1990,12,15,3.5,104.1
+Elkhorn,herbicide,1992,12,15,13.2,228.6
+Elkhorn,herbicide,1994,12,15,6.1,449.6
+Elkhorn,herbicide,1996,12,15,15.2,713.7
+Elkhorn,herbicide,2001,12,15,31.2,1206.5
+Elkhorn,herbicide,2006,12,15,38.4,1770.4
+Elkhorn,herbicide,1988,15,9,1.8,48.3
+Elkhorn,herbicide,1990,15,9,1.3,38.1
+Elkhorn,herbicide,1992,15,9,4.3,121.9
+Elkhorn,herbicide,1994,15,9,10.4,223.5
+Elkhorn,herbicide,1996,15,9,4.3,363.2
+Elkhorn,herbicide,2001,15,9,14.2,802.6
+Elkhorn,herbicide,2006,15,9,24.1,1237
+Elkhorn,herbicide,1988,15,10,2,40.6
+Elkhorn,herbicide,1990,15,10,2.6,91.4
+Elkhorn,herbicide,1992,15,10,8.9,241.3
+Elkhorn,herbicide,1994,15,10,4.3,398.8
+Elkhorn,herbicide,1996,15,10,12.7,642.6
+Elkhorn,herbicide,2001,15,10,32.3,1165.9
+Elkhorn,herbicide,2006,15,10,45.2,1828.8
+Elkhorn,herbicide,1988,15,17,1.9,61
+Elkhorn,herbicide,1990,15,17,4.4,111.8
+Elkhorn,herbicide,1992,15,17,9.4,233.7
+Elkhorn,herbicide,1994,15,17,6.6,475
+Elkhorn,herbicide,1996,15,17,16.8,840.7
+Elkhorn,herbicide,2001,15,17,34.5,1562.1
+Elkhorn,herbicide,2006,15,17,42.4,2212.3
+Elkhorn,herbicide,1988,17,1,1.5,50.8
+Elkhorn,herbicide,1990,17,1,4.2,119.4
+Elkhorn,herbicide,1992,17,1,17.1,264.2
+Elkhorn,herbicide,1994,17,1,7.4,533.4
+Elkhorn,herbicide,1996,17,1,13,718.8
+Elkhorn,herbicide,2001,17,1,23.4,1102.4
+Elkhorn,herbicide,2006,17,1,28.7,1524
+Elkhorn,herbicide,1988,17,5,4,66
+Elkhorn,herbicide,1990,17,5,5.7,185.4
+Elkhorn,herbicide,1992,17,5,16.9,348
+Elkhorn,herbicide,1994,17,5,8.9,609.6
+Elkhorn,herbicide,1996,17,5,17,863.6
+Elkhorn,herbicide,2001,17,5,30.5,1364
+Elkhorn,herbicide,2006,17,5,38.1,1877.1
+Elkhorn,herbicide,1988,17,15,2.2,63.5
+Elkhorn,herbicide,1990,17,15,5.1,170.2
+Elkhorn,herbicide,1992,17,15,13.5,447
+Elkhorn,herbicide,1994,17,15,13.2,739.1
+Elkhorn,herbicide,1996,17,15,21.3,998.2
+Elkhorn,herbicide,2001,17,15,38.4,1640.8
+Elkhorn,herbicide,2006,17,15,46.2,2225
+Feather Falls,herbicide,1988,12,5,6.7,134.6
+Feather Falls,herbicide,1990,12,5,12.2,294.6
+Feather Falls,herbicide,1992,12,5,19.3,520.7
+Feather Falls,herbicide,1994,12,5,21.1,866.1
+Feather Falls,herbicide,1996,12,5,25.1,1277.6
+Feather Falls,herbicide,2001,12,5,30.2,2047.7
+Feather Falls,herbicide,2006,12,5,34.5,2905.8
+Feather Falls,herbicide,1988,12,11,5.6,111.8
+Feather Falls,herbicide,1990,12,11,16,381
+Feather Falls,herbicide,1992,12,11,31,850.9
+Feather Falls,herbicide,1994,12,11,36.8,1468.1
+Feather Falls,herbicide,1996,12,11,48.5,2090.4
+Feather Falls,herbicide,2001,12,11,61.2,3302
+Feather Falls,herbicide,2006,12,11,70.9,4452.6
+Feather Falls,herbicide,1988,12,15,4.7,73.7
+Feather Falls,herbicide,1990,12,15,10.4,299.7
+Feather Falls,herbicide,1992,12,15,21.6,680.7
+Feather Falls,herbicide,1994,12,15,25.1,1221.7
+Feather Falls,herbicide,1996,12,15,32.8,1765.3
+Feather Falls,herbicide,2001,12,15,42.9,2690.5
+Feather Falls,herbicide,2006,12,15,50.5,4041.1
+Feather Falls,herbicide,1988,15,8,3.5,99.1
+Feather Falls,herbicide,1990,15,8,8.4,215.9
+Feather Falls,herbicide,1992,15,8,19.8,485.1
+Feather Falls,herbicide,1994,15,8,18.5,863.6
+Feather Falls,herbicide,1996,15,8,28.4,1346.2
+Feather Falls,herbicide,2001,15,8,40.4,2563.5
+Feather Falls,herbicide,2006,15,8,47.8,3121.7
+Feather Falls,herbicide,1988,15,11,3.5,63.5
+Feather Falls,herbicide,1990,15,11,9.7,287
+Feather Falls,herbicide,1992,15,11,23.6,589.3
+Feather Falls,herbicide,1994,15,11,25.1,1117.6
+Feather Falls,herbicide,1996,15,11,37.1,1701.8
+Feather Falls,herbicide,2001,15,11,50.8,2738.1
+Feather Falls,herbicide,2006,15,11,59.7,3545.8
+Feather Falls,herbicide,1988,15,15,3.4,88.9
+Feather Falls,herbicide,1990,15,15,7.9,251.5
+Feather Falls,herbicide,1992,15,15,20.8,655.3
+Feather Falls,herbicide,1994,15,15,24.4,1145.5
+Feather Falls,herbicide,1996,15,15,32.8,1671.3
+Feather Falls,herbicide,2001,15,15,39.4,2511.9
+Feather Falls,herbicide,2006,15,15,42.2,2872.7
+Feather Falls,herbicide,1988,17,10,5.2,106.7
+Feather Falls,herbicide,1990,17,10,14.7,406.4
+Feather Falls,herbicide,1992,17,10,32,957.6
+Feather Falls,herbicide,1994,17,10,36.6,1579.9
+Feather Falls,herbicide,1996,17,10,46.2,2258.1
+Feather Falls,herbicide,2001,17,10,57.2,3401.1
+Feather Falls,herbicide,2006,17,10,68.3,4452.6
+Feather Falls,herbicide,1988,17,17,4.9,104.1
+Feather Falls,herbicide,1990,17,17,15.6,297.2
+Feather Falls,herbicide,1992,17,17,26.9,645.2
+Feather Falls,herbicide,1994,17,17,27.7,1115.1
+Feather Falls,herbicide,1996,17,17,36.6,1612.9
+Feather Falls,herbicide,2001,17,17,47,2882.7
+Feather Falls,herbicide,2006,17,17,52.8,3327.4
+Feather Falls,herbicide,1988,17,19,4.2,116.8
+Feather Falls,herbicide,1990,17,19,9.7,243.8
+Feather Falls,herbicide,1992,17,19,19.3,505.5
+Feather Falls,herbicide,1994,17,19,18.3,939.8
+Feather Falls,herbicide,1996,17,19,26.7,1534.2
+Feather Falls,herbicide,2001,17,19,34.3,2251.5
+Feather Falls,herbicide,2006,17,19,38.1,3190.2
+Whitmore,herbicide,1991,12,1,11.4,210.8
+Whitmore,herbicide,1992,12,1,15.2,284.5
+Whitmore,herbicide,1995,12,1,14,696
+Whitmore,herbicide,1996,12,1,18,812.8
+Whitmore,herbicide,2001,12,1,27.2,1480.8
+Whitmore,herbicide,2007,12,1,29.5,1978.7
+Whitmore,herbicide,1991,12,5,17,388.6
+Whitmore,herbicide,1992,12,5,22.7,546.1
+Whitmore,herbicide,1995,12,5,26.9,1120.1
+Whitmore,herbicide,1996,12,5,31.8,1285.2
+Whitmore,herbicide,2001,12,5,45.7,2222.5
+Whitmore,herbicide,2007,12,5,53.1,2964.2
+Whitmore,herbicide,1991,12,17,12.4,340.4
+Whitmore,herbicide,1992,12,17,18.7,431.8
+Whitmore,herbicide,1995,12,17,17.5,795
+Whitmore,herbicide,1996,12,17,22.6,929.6
+Whitmore,herbicide,2001,12,17,35.6,1681.5
+Whitmore,herbicide,2007,12,17,42.2,2402.8
+Whitmore,herbicide,1991,15,7,16,401.3
+Whitmore,herbicide,1992,15,7,23.3,563.9
+Whitmore,herbicide,1995,15,7,26.2,1120.1
+Whitmore,herbicide,1996,15,7,30,1310.6
+Whitmore,herbicide,2001,15,7,39.6,2026.9
+Whitmore,herbicide,2007,15,7,43.4,2674.6
+Whitmore,herbicide,1991,15,8,18.5,538.5
+Whitmore,herbicide,1992,15,8,25.4,741.7
+Whitmore,herbicide,1995,15,8,34.3,1206.5
+Whitmore,herbicide,1996,15,8,39.4,1458
+Whitmore,herbicide,2001,15,8,53.8,2481.6
+Whitmore,herbicide,2007,15,8,61.7,2834.6
+Whitmore,herbicide,1991,15,9,7.6,226.1
+Whitmore,herbicide,1992,15,9,10.9,289.6
+Whitmore,herbicide,1995,15,9,8.6,566.4
+Whitmore,herbicide,1996,15,9,10.9,650.2
+Whitmore,herbicide,2001,15,9,16.8,1049
+Whitmore,herbicide,2007,15,9,19.1,1239.5
+Whitmore,herbicide,1991,17,11,13.3,396.2
+Whitmore,herbicide,1992,17,11,18.6,533.4
+Whitmore,herbicide,1995,17,11,23.1,1074.4
+Whitmore,herbicide,1996,17,11,27.7,1275.1
+Whitmore,herbicide,2001,17,11,41.4,2115.8
+Whitmore,herbicide,2007,17,11,49.8,2921
+Whitmore,herbicide,1991,17,18,9.3,254
+Whitmore,herbicide,1992,17,18,13.8,370.8
+Whitmore,herbicide,1995,17,18,18.5,807.7
+Whitmore,herbicide,1996,17,18,22.6,985.5
+Whitmore,herbicide,2001,17,18,34.3,1724.7
+Whitmore,herbicide,2007,17,18,41.1,2367.3
+Whitmore,herbicide,1991,17,20,4.9,144.8
+Whitmore,herbicide,1992,17,20,7.7,205.7
+Whitmore,herbicide,1995,17,20,5.6,477.5
+Whitmore,herbicide,1996,17,20,8.9,579.1
+Whitmore,herbicide,2001,17,20,16.8,1143
+Whitmore,herbicide,2007,17,20,17.8,1663.7
+Elkhorn,HF,1988,1,3,3.5,86.4
+Elkhorn,HF,1990,1,3,8.6,256.5
+Elkhorn,HF,1992,1,3,20.8,574
+Elkhorn,HF,1994,1,3,23.4,883.9
+Elkhorn,HF,1996,1,3,34.3,1272.5
+Elkhorn,HF,2001,1,3,50.3,2080.3
+Elkhorn,HF,2006,1,3,55.9,2684.8
+Elkhorn,HF,1988,1,5,2.1,15.2
+Elkhorn,HF,1990,1,5,3.6,121.9
+Elkhorn,HF,1992,1,5,11.7,284.5
+Elkhorn,HF,1994,1,5,8.9,566.4
+Elkhorn,HF,1996,1,5,18,894.1
+Elkhorn,HF,2001,1,5,36.1,1590
+Elkhorn,HF,2006,1,5,43.4,2181.9
+Elkhorn,HF,1988,1,7,1.6,38.1
+Elkhorn,HF,1990,1,7,3.2,48.3
+Elkhorn,HF,1992,1,7,6.6,203.2
+Elkhorn,HF,1994,1,7,12.4,335.3
+Elkhorn,HF,1996,1,7,8.6,624.8
+Elkhorn,HF,2001,1,7,23.9,1247.1
+Elkhorn,HF,2006,1,7,29,1668.8
+Elkhorn,HF,1988,10,9,2,50.8
+Elkhorn,HF,1990,10,9,2,55.9
+Elkhorn,HF,1992,10,9,8.9,208.3
+Elkhorn,HF,1994,10,9,7.9,495.3
+Elkhorn,HF,1996,10,9,20.3,840.7
+Elkhorn,HF,2001,10,9,40.6,1651
+Elkhorn,HF,2006,10,9,51.8,2479
+Elkhorn,HF,1988,10,10,1.1,22.9
+Elkhorn,HF,1990,10,10,2.5,66
+Elkhorn,HF,1992,10,10,6.9,149.9
+Elkhorn,HF,1994,10,10,3.6,373.4
+Elkhorn,HF,1996,10,10,13.7,711.2
+Elkhorn,HF,2001,10,10,31.5,1338.6
+Elkhorn,HF,2006,10,10,37.3,2113.3
+Elkhorn,HF,1988,10,15,2,48.3
+Elkhorn,HF,1990,10,15,3.5,111.8
+Elkhorn,HF,1992,10,15,12.2,327.7
+Elkhorn,HF,1994,10,15,11.7,632.5
+Elkhorn,HF,1996,10,15,21.8,962.7
+Elkhorn,HF,2001,10,15,38.1,1605.3
+Elkhorn,HF,2006,10,15,46,2440.9
+Elkhorn,HF,1988,19,17,1.6,45.7
+Elkhorn,HF,1990,19,17,2.4,40.6
+Elkhorn,HF,1992,19,17,3.7,81.3
+Elkhorn,HF,1994,19,17,7.9,289.6
+Elkhorn,HF,1996,19,17,7.9,538.5
+Elkhorn,HF,2001,19,17,31.2,1442.7
+Elkhorn,HF,2006,19,17,43.2,2273.3
+Elkhorn,HF,1990,19,19,4,142.2
+Elkhorn,HF,1992,19,19,13.7,401.3
+Elkhorn,HF,1994,19,19,18.5,850.9
+Elkhorn,HF,1996,19,19,32.5,1280.2
+Elkhorn,HF,2001,19,19,53.3,2192
+Elkhorn,HF,2006,19,19,63.5,2994.7
+Elkhorn,HF,1988,19,20,2.4,53.3
+Elkhorn,HF,1990,19,20,3,86.4
+Elkhorn,HF,1992,19,20,8.8,221
+Elkhorn,HF,1994,19,20,6.6,475
+Elkhorn,HF,1996,19,20,14.7,1013.5
+Elkhorn,HF,2001,19,20,27.7,1384.3
+Elkhorn,HF,2006,19,20,33.8,2001.5
+Feather Falls,HF,1988,1,7,3.8,76.2
+Feather Falls,HF,1990,1,7,11.5,287
+Feather Falls,HF,1992,1,7,22.6,604.5
+Feather Falls,HF,1994,1,7,21.6,952.5
+Feather Falls,HF,1996,1,7,28.4,1292.9
+Feather Falls,HF,2001,1,7,36.3,2136.1
+Feather Falls,HF,2006,1,7,39.4,2844.8
+Feather Falls,HF,1988,1,10,7,162.6
+Feather Falls,HF,1990,1,10,18.2,480.1
+Feather Falls,HF,1992,1,10,36.1,901.7
+Feather Falls,HF,1994,1,10,35.8,1239.5
+Feather Falls,HF,1996,1,10,46,1800.9
+Feather Falls,HF,2001,1,10,63,2872.7
+Feather Falls,HF,2006,1,10,71.4,3891.3
+Feather Falls,HF,1988,1,11,4.8,137.2
+Feather Falls,HF,1990,1,11,15.1,492.8
+Feather Falls,HF,1992,1,11,30,955
+Feather Falls,HF,1994,1,11,34,1493.5
+Feather Falls,HF,1996,1,11,40.1,2118.4
+Feather Falls,HF,2001,1,11,51.3,2804.7
+Feather Falls,HF,2006,1,11,55.9,4249.4
+Feather Falls,HF,1988,10,2,5.2,111.8
+Feather Falls,HF,1990,10,2,13.7,383.5
+Feather Falls,HF,1992,10,2,29.2,838.2
+Feather Falls,HF,1994,10,2,37.1,1153.2
+Feather Falls,HF,1996,10,2,49.5,1971
+Feather Falls,HF,2001,10,2,70.1,3404.7
+Feather Falls,HF,2006,10,2,80,4389.1
+Feather Falls,HF,1988,10,5,5,124.5
+Feather Falls,HF,1990,10,5,13.5,429.3
+Feather Falls,HF,1992,10,5,27.2,861.1
+Feather Falls,HF,1994,10,5,30.2,1432.6
+Feather Falls,HF,1996,10,5,38.4,2047.2
+Feather Falls,HF,2001,10,5,51.3,2804.7
+Feather Falls,HF,2006,10,5,59.4,4305.3
+Feather Falls,HF,1988,10,9,5.7,137.2
+Feather Falls,HF,1990,10,9,11.7,317.5
+Feather Falls,HF,1992,10,9,21.1,655.3
+Feather Falls,HF,1994,10,9,23.6,1097.3
+Feather Falls,HF,1996,10,9,30,1559.6
+Feather Falls,HF,2001,10,9,37.3,2302.4
+Feather Falls,HF,2006,10,9,38.9,3462
+Feather Falls,HF,1988,19,3,6.4,129.5
+Feather Falls,HF,1990,19,3,16.5,447
+Feather Falls,HF,1992,19,3,31.5,838.2
+Feather Falls,HF,1994,19,3,34,1353.8
+Feather Falls,HF,1996,19,3,45.7,1866.9
+Feather Falls,HF,2001,19,3,63.2,3106.4
+Feather Falls,HF,2006,19,3,71.6,4066.5
+Feather Falls,HF,1988,19,16,4.3,127
+Feather Falls,HF,1990,19,16,12.4,436.9
+Feather Falls,HF,1992,19,16,25.7,878.8
+Feather Falls,HF,1994,19,16,31.2,1488.4
+Feather Falls,HF,1996,19,16,40.9,2159
+Feather Falls,HF,2001,19,16,51.8,2822
+Feather Falls,HF,2006,19,16,54.9,4130
+Feather Falls,HF,1988,19,20,4.7,91.4
+Feather Falls,HF,1990,19,20,11.7,320
+Feather Falls,HF,1992,19,20,24.6,746.8
+Feather Falls,HF,1994,19,20,26.2,1104.9
+Feather Falls,HF,1996,19,20,33.8,1574.8
+Feather Falls,HF,2001,19,20,43.4,2542.5
+Feather Falls,HF,2006,19,20,46.2,3218.2
+Whitmore,HF,1991,1,3,15.7,419.1
+Whitmore,HF,1992,1,3,20.2,510.5
+Whitmore,HF,1995,1,3,25.7,1046.5
+Whitmore,HF,1996,1,3,30.7,1259.8
+Whitmore,HF,2001,1,3,47.5,2245.4
+Whitmore,HF,2007,1,3,57.4,3441.7
+Whitmore,HF,1991,1,6,14,368.3
+Whitmore,HF,1992,1,6,20.4,510.5
+Whitmore,HF,1995,1,6,21.6,1112.5
+Whitmore,HF,1996,1,6,26.2,1379.2
+Whitmore,HF,2001,1,6,39.6,2212.3
+Whitmore,HF,2007,1,6,47,3134.4
+Whitmore,HF,1991,1,7,11.8,287
+Whitmore,HF,1992,1,7,15.9,391.2
+Whitmore,HF,1995,1,7,18.5,1183.6
+Whitmore,HF,1996,1,7,23.1,1013.5
+Whitmore,HF,2001,1,7,33,1887.2
+Whitmore,HF,2007,1,7,36.6,2578.1
+Whitmore,HF,1991,10,1,17.8,386.1
+Whitmore,HF,1992,10,1,22.4,538.5
+Whitmore,HF,1995,10,1,28.2,1033.8
+Whitmore,HF,1996,10,1,30.5,1214.1
+Whitmore,HF,2001,10,1,43.4,2039.6
+Whitmore,HF,2007,10,1,48.3,2753.4
+Whitmore,HF,1991,10,14,12.7,383.5
+Whitmore,HF,1992,10,14,18.5,515.6
+Whitmore,HF,1995,10,14,26.2,1069.3
+Whitmore,HF,1996,10,14,30.7,1282.7
+Whitmore,HF,2001,10,14,47.5,2303.8
+Whitmore,HF,2007,10,14,55.6,3162.3
+Whitmore,HF,1991,10,17,8.6,226.1
+Whitmore,HF,1992,10,17,11.2,315
+Whitmore,HF,1995,10,17,12.4,660.4
+Whitmore,HF,1996,10,17,15.5,779.8
+Whitmore,HF,2001,10,17,25.9,1612.9
+Whitmore,HF,2007,10,17,28.2,2341.9
+Whitmore,HF,1991,19,13,12.6,330.2
+Whitmore,HF,1992,19,13,18.5,467.4
+Whitmore,HF,1995,19,13,19.1,952.5
+Whitmore,HF,1996,19,13,24.1,1145.5
+Whitmore,HF,2001,19,13,38.9,2176.8
+Whitmore,HF,2007,19,13,47.2,3009.9
+Whitmore,HF,1991,19,16,9.6,254
+Whitmore,HF,1992,19,16,12.9,348
+Whitmore,HF,1995,19,16,13.5,767.1
+Whitmore,HF,1996,19,16,19.1,932.2
+Whitmore,HF,2001,19,16,32.5,1750.1
+Whitmore,HF,2007,19,16,32.5,2514.6
+Whitmore,HF,1991,19,18,16.3,421.6
+Whitmore,HF,1992,19,18,21,571.5
+Whitmore,HF,1995,19,18,27.4,1219.2
+Whitmore,HF,1996,19,18,32.8,1447.8
+Whitmore,HF,2001,19,18,49.8,2392.7
+Whitmore,HF,2007,19,18,60.5,3390.9
